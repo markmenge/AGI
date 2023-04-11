@@ -1,0 +1,4 @@
+I want a makefile that is for advanced general intelligence investigations. I am first going to build a calculator with AI.
+Rules:
+1. calc.py depends on calc.goal. If calc.goal changes, then you call python aicmd.py python calc.goal > calc.py
+\
