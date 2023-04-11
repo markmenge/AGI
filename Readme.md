@@ -8,6 +8,6 @@ graph TD;
   Testing_Results-->|FAIL - regenerate| Code;
   Testing_Results -->|PASS| Finish;
 
-  Files:.goal,.spec,.py
+  Files:.goal,.py
 
 ```
